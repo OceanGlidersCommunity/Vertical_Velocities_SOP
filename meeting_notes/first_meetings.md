@@ -14,13 +14,10 @@ In terms of data sharing :
 -	The Ocean Gliders Community github (https://github.com/OceanGlidersCommunity) was identified as the right place to create a new repository associated to vertical velocities (I was only following and not a member, I will get to create it as soon as I get in there !)
 -	The data should be stored somewhere accessible to everyone (any ideas ?)
 
-In terms of variables :
--	We need to come up with standardised names for 
-o	the navigation parameters
-
-o	vertical velocities associated with the flight models 
-
-o	 vertical velocities associated with the ADCP measurements
+	We need to come up with standardised names for :
+-	the navigation parameters
+-	vertical velocities associated with the flight models 
+-	 vertical velocities associated with the ADCP measurements
 
 We discussed several points linked to the vertical velocities with gliders, from the glider flight models and from ADCP measurements as well as its use for turbulence for which the flight model does not need to be as finely tuned. Using ADCP measurements for feedback on the flight model was also discussed. 
 
