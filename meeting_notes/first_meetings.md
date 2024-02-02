@@ -17,7 +17,9 @@ In terms of data sharing :
 In terms of variables :
 -	We need to come up with standardised names for 
 o	the navigation parameters
+
 o	vertical velocities associated with the flight models 
+
 o	 vertical velocities associated with the ADCP measurements
 
 We discussed several points linked to the vertical velocities with gliders, from the glider flight models and from ADCP measurements as well as its use for turbulence for which the flight model does not need to be as finely tuned. Using ADCP measurements for feedback on the flight model was also discussed. 
