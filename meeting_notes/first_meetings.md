@@ -14,7 +14,8 @@ In terms of data sharing :
 -	The Ocean Gliders Community github (https://github.com/OceanGlidersCommunity) was identified as the right place to create a new repository associated to vertical velocities (I was only following and not a member, I will get to create it as soon as I get in there !)
 -	The data should be stored somewhere accessible to everyone (any ideas ?)
 
-	We need to come up with standardised names for :
+We need to come up with standardised names for :
+
 -	the navigation parameters
 -	vertical velocities associated with the flight models 
 -	 vertical velocities associated with the ADCP measurements
