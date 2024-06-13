@@ -13,6 +13,10 @@ The first step will be to come up with variable names for these different fields
 
 The aim is also to create a data repository associated to this gitspace, where data will be shared in the  [EGO format](https://archimer.ifremer.fr/doc/00239/34980/) with additional fields regarding the afore-mentioned vertical velocities as well as the navigation parameters necessary to their computation.
 
+## Contributors
+
+Bastien Yves Queste - University of Gothenburg - 0000-0002-3786-2275
+
 ## License
 This work is licensed under a [Creative Commons Attribution 4.0 Generic License](https://creativecommons.org/licenses/by/4.0/).
 
