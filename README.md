@@ -19,6 +19,8 @@ Bastien Yves Queste - University of Gothenburg - 0000-0002-3786-2275
 
 Eleanor Frajka-Williams - Universität Hamburg - 0000-0001-8773-7838
 
+Lucas Merckelbach - Hereon GmbH
+
 ## License
 This work is licensed under a [Creative Commons Attribution 4.0 Generic License](https://creativecommons.org/licenses/by/4.0/).
 
