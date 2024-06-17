@@ -19,6 +19,8 @@ The aim is also to create a data repository associated to this gitspace, where d
 - Eleanor Frajka-Williams - Universität Hamburg - 0000-0001-8773-7838
 - Callum Rollo - Voice of the Ocean foundataion - 0000-0002-5134-7886
 
+Lucas Merckelbach - Hereon GmbH
+
 ## License
 This work is licensed under a [Creative Commons Attribution 4.0 Generic License](https://creativecommons.org/licenses/by/4.0/).
 
