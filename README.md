@@ -18,6 +18,7 @@ The aim is also to create a data repository associated to this gitspace, where d
 - Bastien Yves Queste - University of Gothenburg - 0000-0002-3786-2275
 - Eleanor Frajka-Williams - Universität Hamburg - 0000-0001-8773-7838
 - Callum Rollo - Voice of the Ocean foundataion - 0000-0002-5134-7886
+- Clark Richards - Bedford Institute of Oceanography - 0000-0002-7833-206X
 
 Lucas Merckelbach - Hereon GmbH
 
